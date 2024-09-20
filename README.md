@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é THIAGO THOMAZ
+Meu nome é KANANDA VITORIA
 
 - Estou fazendo curso no Alura
 - Estou me desenvolvendo, criando meus projetos
